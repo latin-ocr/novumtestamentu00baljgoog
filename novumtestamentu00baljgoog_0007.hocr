@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novumtestamentu00baljgoog_0007.png"; bbox 0 0 3050 4459; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 722 131 2038 256">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 722 131 2038 256">
+     <span class='ocr_line' id='line_1_1' title="bbox 722 131 2038 256; baseline 0.008 -21"><span class='ocrx_word' id='word_1_1' title='bbox 722 144 1136 254; x_wconf 48' lang='grc' dir='ltr'>Ἑῑικς-</span> <span class='ocrx_word' id='word_1_2' title='bbox 1252 149 1534 256; x_wconf 67' lang='grc' dir='ltr'>ΝΤ.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1655 131 2038 250; x_wconf 57' lang='lat' dir='ltr'>Greek,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1105 521 1879 629">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1105 521 1879 629">
+     <span class='ocr_line' id='line_1_2' title="bbox 1105 521 1879 629; baseline -0.003 -1"><span class='ocrx_word' id='word_1_4' title='bbox 1105 521 1879 629; x_wconf 83' lang='lat' dir='ltr'>NOVUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 358 1121 2604 1304">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 358 1121 2604 1304">
+     <span class='ocr_line' id='line_1_3' title="bbox 358 1121 2604 1304; baseline -0.002 -3"><span class='ocrx_word' id='word_1_5' title='bbox 358 1125 1318 1304; x_wconf 86' lang='lat' dir='ltr'><strong>TESTAMEN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1335 1125 1712 1301; x_wconf 89' lang='lat' dir='ltr'>TUM</span> <span class='ocrx_word' id='word_1_7' title='bbox 1841 1121 2604 1301; x_wconf 84' lang='lat' dir='ltr'><strong>GRAECE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 688 1795 2286 1856">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 688 1795 2286 1856">
+     <span class='ocr_line' id='line_1_4' title="bbox 688 1795 2286 1856; baseline -0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 688 1797 1075 1855; x_wconf 82' lang='lat' dir='ltr'>PRAESER&#39;I&#39;IM</span> <span class='ocrx_word' id='word_1_9' title='bbox 1112 1797 1183 1855; x_wconf 77' lang='lat' dir='ltr'>ffl</span> <span class='ocrx_word' id='word_1_10' title='bbox 1222 1797 1391 1856; x_wconf 71' lang='lat' dir='ltr'>USUM</span> <span class='ocrx_word' id='word_1_11' title='bbox 1429 1796 1857 1855; x_wconf 78' lang='lat' dir='ltr'>STUDIOSORUM</span> <span class='ocrx_word' id='word_1_12' title='bbox 1895 1795 2286 1855; x_wconf 84' lang='lat' dir='ltr'>RECOGNOVIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 989 1974 1992 2034">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 989 1974 1992 2034">
+     <span class='ocr_line' id='line_1_5' title="bbox 989 1974 1992 2034; baseline 0 -1"><span class='ocrx_word' id='word_1_13' title='bbox 989 1976 1064 2033; x_wconf 82' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_14' title='bbox 1102 1975 1403 2034; x_wconf 81' lang='lat' dir='ltr'><strong>BREVIBUS</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1442 1974 1992 2034; x_wconf 69' lang='lat' dir='ltr'>ANNOTATIONJBUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1334 2369 1649 2411">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1334 2369 1649 2411">
+     <span class='ocr_line' id='line_1_6' title="bbox 1334 2369 1649 2411; baseline -0.006 0"><span class='ocrx_word' id='word_1_16' title='bbox 1334 2369 1649 2411; x_wconf 65' lang='lat' dir='ltr'>msrssuxrr</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 1032 2731 1944 2808">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 1032 2731 1944 2808">
+     <span class='ocr_line' id='line_1_7' title="bbox 1032 2731 1944 2808; baseline -0.005 0"><span class='ocrx_word' id='word_1_17' title='bbox 1032 2734 1101 2808; x_wconf 83' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_18' title='bbox 1170 2733 1264 2804; x_wconf 88' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_19' title='bbox 1332 2733 1400 2807; x_wconf 83' lang='lat' dir='ltr'>S.</span> <span class='ocrx_word' id='word_1_20' title='bbox 1470 2731 1944 2806; x_wconf 83' lang='lat' dir='ltr'><strong>BALJON.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 874 4022 2116 4083">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 874 4022 2116 4083">
+     <span class='ocr_line' id='line_1_8' title="bbox 874 4022 2116 4083; baseline -0.002 -17"><span class='ocrx_word' id='word_1_21' title='bbox 874 4025 1236 4083; x_wconf 76' lang='lat' dir='ltr'>GRONmGAE,</span> <span class='ocrx_word' id='word_1_22' title='bbox 1278 4025 1430 4066; x_wconf 76' lang='lat' dir='ltr'>APUD</span> <span class='ocrx_word' id='word_1_23' title='bbox 1473 4024 1517 4064; x_wconf 82' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_24' title='bbox 1561 4025 1612 4063; x_wconf 92' lang='lat' dir='ltr'>B.</span> <span class='ocrx_word' id='word_1_25' title='bbox 1657 4023 1951 4080; x_wconf 72' lang='lat' dir='ltr'>WOLTERS,</span> <span class='ocrx_word' id='word_1_26' title='bbox 1992 4022 2116 4063; x_wconf 72' lang='lat'><strong>1898.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
